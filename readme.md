@@ -8,5 +8,5 @@ POST
 
 ## Instalacion de dependencias:
 ````
-pip intall flask
+pip install flask
 ````
